@@ -1,5 +1,5 @@
 {
-  "name": "weather-app-app",
+  "name": "weather-app",
   "version": "1.0.0",
   "description": "Aplicacion del tiempo con CI/CD",
   "main": "weather.js",
